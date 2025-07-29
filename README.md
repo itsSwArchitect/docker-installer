@@ -5,7 +5,7 @@ This script ensures a clean setup, handles old package cleanup, adds official Do
 
 ---
 
-## 📦 Features
+## Features
 
 ✅ Removes conflicting old Docker packages  
 ✅ Installs Docker CE, CLI, containerd, Buildx, and Compose Plugin  
