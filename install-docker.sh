@@ -4,9 +4,9 @@
 # Script Name : install-docker.sh
 # Description : A automated script to install Docker on Ubuntu
 # Author      : Abid Ali
-# Website     : https://github.com/abidali-dev/docker-installer
+# Website     : https://abidali.site
 # License     : MIT
-# Usage       : curl -fsSL https://raw.githubusercontent.com/<username>/<repo>/main/install-docker.sh | bash
+# Usage       : https://raw.githubusercontent.com/itsSwArchitect/docker-installer/refs/heads/main/install-docker.sh | bash
 ###############################################################################
 
 set -euo pipefail
